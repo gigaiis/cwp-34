@@ -6,5 +6,12 @@ notifications:
 node_js:
   - "node"
   - "8"
+deploy:
+  provider: heroku
+  api_key:
+    secure: "d44f7b5e-2d60-492f-801b-ba53ec46cd48"
+  app: cwp34-article
+  on:
+    repo: gigaiis/cwp34
 before_script:
   - npm install
