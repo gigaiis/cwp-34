@@ -1,0 +1,8 @@
+2018-06-04T15:55:39.755Z - [32minfo[39m: /api/property/create POST
+ body: {"id":13,"price":2832,"currency":"BYN","heading":"Research and Development","location":"94 La Follette Pass"}
+2018-06-04T17:12:44.085Z - [32minfo[39m: /api/office GET
+2018-06-04T17:12:44.099Z - [32minfo[39m: /api/office GET
+2018-06-04T17:12:44.102Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T17:13:16.523Z - [32minfo[39m: /api/office GET
+2018-06-04T17:13:16.535Z - [32minfo[39m: /api/office GET
+2018-06-04T17:13:16.538Z - [32minfo[39m: /api/office/1 GET

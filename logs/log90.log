@@ -1,0 +1,9 @@
+2018-06-04T19:09:16.753Z - [32minfo[39m: /api/office GET
+2018-06-04T19:09:16.736Z - [32minfo[39m: /api/office GET
+2018-06-04T19:09:16.756Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T19:09:16.788Z - [32minfo[39m: /api/office GET
+2018-06-04T19:09:16.773Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2018-06-04T19:09:16.782Z - [32minfo[39m: /api/office GET
+2018-06-04T19:09:53.606Z - [32minfo[39m: /api/office/update/2 POST
+ body: {"id":2,"website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}

@@ -1,0 +1,8 @@
+2018-06-04T19:05:16.796Z - [32minfo[39m: /api/office GET
+2018-06-04T19:05:16.832Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2018-06-04T19:05:16.841Z - [32minfo[39m: /api/office GET
+2018-06-04T19:05:16.845Z - [32minfo[39m: /api/office GET
+2018-06-04T19:05:16.847Z - [32minfo[39m: /api/office/update POST
+2018-06-04T19:05:16.811Z - [32minfo[39m: /api/office GET
+2018-06-04T19:05:16.815Z - [32minfo[39m: /api/office/1 GET

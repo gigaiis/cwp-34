@@ -1,0 +1,7 @@
+{
+    "db" : "cwp_34",
+    "login" : "root",
+    "password" : "root",
+    "host" : "localhost",
+    "dialect" : "mysql"
+}

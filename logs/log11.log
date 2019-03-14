@@ -1,0 +1,9 @@
+2018-06-04T10:15:44.258Z - [32minfo[39m: /api/office GET
+2018-06-04T10:15:44.285Z - [32minfo[39m: /api/office GET
+2018-06-04T10:15:44.290Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T10:15:44.451Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"Eee baby","website":"https://www.tut.by","address":"Minsk"}
+2018-06-04T10:15:44.485Z - [32minfo[39m: /api/office GET
+2018-06-04T10:15:44.540Z - [32minfo[39m: /api/office GET
+2018-06-04T10:15:44.570Z - [32minfo[39m: /api/office GET
+2018-06-04T10:15:44.581Z - [32minfo[39m: /api/office/delete POST

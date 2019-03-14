@@ -1,0 +1,12 @@
+2018-06-04T15:48:42.212Z - [32minfo[39m: /api/office/create POST
+ body: {"id":4,"title":"S&S","website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}
+2018-06-04T15:49:12.672Z - [32minfo[39m: /api/office/create POST
+ body: {"id":4,"title":"S&S","website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}
+2018-06-04T15:49:23.612Z - [32minfo[39m: /api/office/agents?limit=2&offset=1 POST
+ query: {"limit":"2","offset":"1"}
+ body: {"id":1}
+2018-06-04T15:49:59.485Z - [32minfo[39m: /api/office/agents POST
+ body: {"id":2}
+2018-06-04T15:49:59.452Z - [32minfo[39m: /api/office GET
+2018-06-04T15:49:59.464Z - [32minfo[39m: /api/office GET
+2018-06-04T15:49:59.467Z - [32minfo[39m: /api/office/1 GET

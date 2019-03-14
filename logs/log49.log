@@ -1,0 +1,8 @@
+2018-06-04T15:50:35.426Z - [32minfo[39m: /api/office GET
+2018-06-04T15:50:35.448Z - [32minfo[39m: /api/office GET
+2018-06-04T15:50:35.440Z - [32minfo[39m: /api/office GET
+2018-06-04T15:50:35.463Z - [32minfo[39m: /api/office/delete POST
+ body: {"title":"Just Bea","website":"https://surveymonkey.com/","address":"5262 Cascade Trail"}
+2018-06-04T15:50:35.443Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T15:53:27.307Z - [32minfo[39m: /api/property/create POST
+ body: {"id":13,"price":2832,"currency":"BYN","heading":"Research and Development","location":"94 La Follette Pass"}

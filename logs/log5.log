@@ -1,0 +1,6 @@
+2018-05-29T07:31:12.095Z - [32minfo[39m: /api/property/create POST
+ body: {"price":2832,"currency":"BYN","heading":"Research and Development","location":"94 La Follette Pass"}
+2018-05-29T07:35:00.657Z - [32minfo[39m: /api/property/create POST
+ body: {"price":2832,"currency":"BYN","heading":"Research and Development","location":"94 La Follette Pass"}
+2018-05-29T07:35:39.769Z - [32minfo[39m: /api/property/create POST
+ body: {"price":2832,"currency":"BYN","heading":"Research and Development","location":"94 La Follette Pass"}

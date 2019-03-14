@@ -1,0 +1,9 @@
+2018-06-04T12:16:30.781Z - [32minfo[39m: /api/office GET
+2018-06-04T12:16:30.817Z - [32minfo[39m: /api/office/update POST
+ body: {"title":"Just Bea","website":"https://surveymonkey.com/","address":"7758 Mauris Rd."}
+2018-06-04T12:16:59.109Z - [32minfo[39m: /api/office GET
+2018-06-04T12:16:59.134Z - [32minfo[39m: /api/office GET
+2018-06-04T12:16:59.140Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T12:16:59.148Z - [32minfo[39m: /api/office GET
+2018-06-04T12:16:59.179Z - [32minfo[39m: /api/office/update POST
+ body: {"title":"Just Bea","website":"https://surveymonkey.com/","address":"7758 Mauris Rd."}

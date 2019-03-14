@@ -1,0 +1,11 @@
+2018-06-04T19:00:18.069Z - [32minfo[39m: /api/office/update POST
+ body: {"id":2,"website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}
+2018-06-04T19:01:57.180Z - [32minfo[39m: /api/office GET
+2018-06-04T19:01:57.165Z - [32minfo[39m: /api/office GET
+2018-06-04T19:01:57.202Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2018-06-04T19:01:57.183Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T19:01:57.217Z - [32minfo[39m: /api/office GET
+2018-06-04T19:01:57.210Z - [32minfo[39m: /api/office GET
+2018-06-04T19:01:57.222Z - [32minfo[39m: /api/office/update POST
+ body: {"title":"Just Bea","website":"https://surveymonkey.com/","address":"7758 Mauris Rd."}

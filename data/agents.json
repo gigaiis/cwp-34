@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Valentin Crosso",
+      "email": "valcross@gmail.com",
+      "tel": "210-785-5145",
+      "officeId": 3
+    },
+    {
+      "name": "Pet Dikson",
+      "email": "pdikson@site.com",
+      "tel": "849-758-8462",
+      "officeId": 1
+    },
+    {
+      "name": "Simon Lies",
+      "email": "slies@nog.gov",
+      "tel": "875-459-8423",
+      "officeId": 2
+    },
+    {
+      "name": "Clary Dreik",
+      "email": "cldreik@belstu.by",
+      "tel": "8457-962-3156",
+      "officeId": 1
+    },
+    {
+      "name": "Jennifer Toyka",
+      "email": "jtouka@mia.ru",
+      "tel": "849-792-5120",
+      "officeId": 1
+    }
+  ]

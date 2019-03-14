@@ -1,0 +1,8 @@
+2018-06-04T11:36:20.751Z - [32minfo[39m: /api/office/update POST
+ body: {"id":4,"website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}
+2018-06-04T11:36:34.892Z - [32minfo[39m: /api/office/update POST
+ body: {"id":4,"website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}
+2018-06-04T11:37:10.765Z - [32minfo[39m: /api/office/create POST
+ body: {"id":4,"website":"http://ebay.com/j7u8fgglo","address":"666a Golden Plaza"}
+2018-06-04T11:37:41.236Z - [32minfo[39m: /api/office/update POST
+ body: {"id":4,"address":"667a Golden Plaza"}

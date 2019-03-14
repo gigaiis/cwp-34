@@ -1,0 +1,33 @@
+{
+  "name": "cwp-34",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigaiis/cwp-34.git"
+  },
+  "author": "gigaiis",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^13.7.0",
+    "lru-cache": "^4.1.5",
+    "mysql2": "^1.6.5",
+    "sequelize": "^4.43.0",
+    "winston": "^2.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/gigaiis/cwp-34/issues"
+  },
+  "homepage": "https://github.com/gigaiis/cwp-34#readme",
+  "devDependencies": {
+    "jest": "^23.0.1",
+    "supertest": "^3.1.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testEnvironment": "node"
+  }
+}

@@ -1,0 +1,14 @@
+2018-06-04T19:23:51.860Z - [32minfo[39m: /api/office GET
+2018-06-04T19:23:51.863Z - [32minfo[39m: /api/office/delete/2 POST
+2018-06-04T19:24:28.943Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"TUT.BY","website":"https://www.tut.by","address":"Minsk"}
+2018-06-04T19:24:28.918Z - [32minfo[39m: /api/office GET
+2018-06-04T19:24:28.902Z - [32minfo[39m: /api/office GET
+2018-06-04T19:24:28.951Z - [32minfo[39m: /api/office GET
+2018-06-04T19:24:28.922Z - [32minfo[39m: /api/office/1 GET
+2018-06-04T19:24:28.956Z - [32minfo[39m: /api/office GET
+2018-06-04T19:24:28.960Z - [32minfo[39m: /api/office/update/2 POST
+ body: {"title":"Just Bea","website":"https://surveymonkey.com/","address":"7758 Mauris Rd."}
+2018-06-04T19:24:28.964Z - [32minfo[39m: /api/office GET
+2018-06-04T19:24:28.965Z - [32minfo[39m: /api/office GET FROM CACHE
+
